@@ -21,4 +21,4 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # Permet l'authentification de Semantic Release
-        run: npx semantic-release
+        run: npm run release
