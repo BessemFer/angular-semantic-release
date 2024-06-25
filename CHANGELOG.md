@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/BessemFer/angular-semantic-release/compare/v1.1.0...v1.1.1) (2024-06-25)
+
+
+### Bug Fixes
+
+* test fix release ([1c01a1e](https://github.com/BessemFer/angular-semantic-release/commit/1c01a1ec759dab48648f8e07f4f9aaa772b9d5f1))
+
 # [1.1.0](https://github.com/BessemFer/angular-semantic-release/compare/v1.0.0...v1.1.0) (2024-06-25)
 
 
