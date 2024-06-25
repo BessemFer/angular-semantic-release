@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/BessemFer/angular-semantic-release/compare/v1.1.1...v1.2.0) (2024-06-25)
+
+
+### Features
+
+* test ([ad7b07b](https://github.com/BessemFer/angular-semantic-release/commit/ad7b07b7e0922f8b10b1f0c996372c562ed1e689))
+
 ## [1.1.1](https://github.com/BessemFer/angular-semantic-release/compare/v1.1.0...v1.1.1) (2024-06-25)
 
 
