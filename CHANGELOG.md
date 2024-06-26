@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/BessemFer/angular-semantic-release/compare/v2.1.1...v2.1.2) (2024-06-26)
+
+
+### Bug Fixes
+
+* remove module ([037f946](https://github.com/BessemFer/angular-semantic-release/commit/037f9468ba69a63c990b374a87e867526bf700be))
+
 # [2.0.0](https://github.com/BessemFer/angular-semantic-release/compare/v1.2.0...v2.0.0) (2024-06-26)
 
 # [1.2.0](https://github.com/BessemFer/angular-semantic-release/compare/v1.1.1...v1.2.0) (2024-06-25)
