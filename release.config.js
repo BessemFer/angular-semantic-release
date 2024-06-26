@@ -2,6 +2,7 @@ module.exports = {
     branches: ['main'],
     plugins: [
         
+        [
             "@semantic-release/commit-analyzer",
             {
               "preset": "angular",
@@ -15,17 +16,14 @@ module.exports = {
                 "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES"]
               }
             }
-          ,
-          "@semantic-release/release-notes-generator"
-        
-
-,
-      
+          ],
+      '@semantic-release/release-notes-generator',
+      [
         "@semantic-release/changelog",
         {
           "changelogFile": "./CHANGELOG.md"
         }
-      ,
+      ],
       '@semantic-release/git',
       '@semantic-release/github',
     ],
