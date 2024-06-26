@@ -1,3 +1,5 @@
+# [2.0.0](https://github.com/BessemFer/angular-semantic-release/compare/v1.2.0...v2.0.0) (2024-06-26)
+
 # [1.2.0](https://github.com/BessemFer/angular-semantic-release/compare/v1.1.1...v1.2.0) (2024-06-25)
 
 
