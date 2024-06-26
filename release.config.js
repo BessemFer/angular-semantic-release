@@ -11,7 +11,8 @@ module.exports = {
                 { "type": "refactor", "release": "patch" },
                 { "type": "style", "release": "patch" },
                 { "type": "fix", "release": "patch" },
-                { "type": "maj", "release": "major" }
+                { "type": "maj", "release": "major" },
+                { "type": "feat", "release": "minor" }
               ],
               "parserOpts": {
                 "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES"]
@@ -26,5 +27,5 @@ module.exports = {
         }
       ],
     ],
-    "dryRun": false // Par défaut : 'false' si exécuté dans un environnement CI, true sinon.
+    "dryRun": false //**** */ Par défaut : 'false' si exécuté dans un environnement CI, true sinon.
   };
