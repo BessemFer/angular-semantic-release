@@ -24,7 +24,6 @@ module.exports = {
           "changelogFile": "./CHANGELOG.md"
         }
       ],
-      '@semantic-release/github',
     ],
     "dryRun": false // Par défaut : 'false' si exécuté dans un environnement CI, true sinon.
   };
