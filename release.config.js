@@ -9,7 +9,7 @@ module.exports = {
               "releaseRules": [
                 { "type": "docs", "scope": "README", "release": "patch" },
                 { "type": "refactor", "release": "patch" },
-                { "type": "style", "release": "patch" }
+                { "type": "style", "release": "patch" },
                 { "type": "maj", "release": "major" }
               ],
               "parserOpts": {
