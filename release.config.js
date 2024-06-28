@@ -28,7 +28,7 @@ module.exports = {
         
       ],
       '@semantic-release/github', 
-      // '@semantic-release/git',
+      '@semantic-release/git',
     ],
     "dryRun": false //* Par défaut : 'false' si exécuté dans un environnement CI, true sinon.::
   };
