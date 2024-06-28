@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/BessemFer/angular-semantic-release/compare/v2.3.0...v2.4.0) (2024-06-28)
+
+
+### Features
+
+* remove module2 BREAKING CHANGES ([5da60ff](https://github.com/BessemFer/angular-semantic-release/commit/5da60ffe8e10bbc68c113a5f9f814ba2de0e569e))
+
 # [2.3.0](https://github.com/BessemFer/angular-semantic-release/compare/v2.2.0...v2.3.0) (2024-06-28)
 
 
