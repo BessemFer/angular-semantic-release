@@ -1,3 +1,10 @@
+## [2.4.1](https://github.com/BessemFer/angular-semantic-release/compare/v2.4.0...v2.4.1) (2024-06-28)
+
+
+### Bug Fixes
+
+* remove package to test ([1f920a9](https://github.com/BessemFer/angular-semantic-release/commit/1f920a96e8df509f62b191d9547ac5fa27af284a))
+
 # [2.4.0](https://github.com/BessemFer/angular-semantic-release/compare/v2.3.0...v2.4.0) (2024-06-28)
 
 
