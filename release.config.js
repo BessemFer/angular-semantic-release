@@ -14,9 +14,9 @@ module.exports = {
                 { "type": "maj", "release": "major" },
                 { "type": "feat", "release": "minor" }
               ],
-              "parserOpts": {
-                "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES"]
-              }
+              // "parserOpts": {
+              //   "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES"]
+              // }
             }
           ],
       '@semantic-release/release-notes-generator',
